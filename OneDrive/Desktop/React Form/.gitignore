@@ -12,6 +12,12 @@ dist
 dist-ssr
 *.local
 
+.anaconda/
+.cache/
+.gradle/
+.vscode/
+node_modules/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
