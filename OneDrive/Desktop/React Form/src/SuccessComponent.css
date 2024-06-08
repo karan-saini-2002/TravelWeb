@@ -1,0 +1,53 @@
+/* src/components/SuccessComponent.css */
+.success-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 1em;
+    background-color: #f9f9f9;
+  }
+  
+  .success-container h2 {
+    text-align: center;
+    color: #007BFF;
+  }
+  
+  .success-container h3 {
+    margin-top: 0;
+    color: #333;
+  }
+  
+  .data-field {
+    margin-bottom: 1em;
+  }
+  
+  .data-field strong {
+    display: inline-block;
+    width: 150px;
+    color: #333;
+  }
+  
+  .data-field div {
+    display: inline-block;
+    margin-left: 10px;
+  }
+  
+  .back-button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007BFF;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .back-button:hover {
+    background-color: #0056b3;
+  }
+  
+  
